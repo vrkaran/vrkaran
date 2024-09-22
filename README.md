@@ -126,6 +126,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/vrkaran/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)</a>
 <a href="https://www.kaggle.com/vrkaran">![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat-square)</a>
 <a href="https://huggingface.co/vrkaran">![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat-square)</a>
+<a href="mailto:karnan030822@gmail.com">![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat-square)</a>
 <a href="https://x.com/vrkarann">![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=flat-square)</a>
 
 
