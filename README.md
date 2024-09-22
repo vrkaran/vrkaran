@@ -118,7 +118,44 @@ Here are some ideas to get you started:
 <br/>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vrkaran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--START_SECTION:waka-->
+<h2><img src="https://media.giphy.com/media/S8GDAHL3nmSGKQUTn3/giphy.gif" width="3%"> How to reach me:</h2> 
+
+
+
+
+<a href="https://www.linkedin.com/in/vrkaran/">![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat-square)</a>
+<a href="https://www.kaggle.com/vrkaran">![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat-square)</a>
+<a href="https://huggingface.co/vrkaran">![Hugging Face Badge](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=flat-square)</a>
+<a href="https://x.com/vrkarann">![X Badge](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=flat-square)</a>
+
+
+<!-- 	
+<img src="https://raw.githubusercontent.com/vrkaran/vrkaran/output/snake.svg" alt="Snake animation" />  -->
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Passionate about learning and growing through collaboration. </b> If you'd like to discuss opportunities or <b> Just say hello, don’t hesitate to reach out!...</b></em> <img src="https://github.com/vrkaran/vrkaran/blob/main/Gifs/thank.gif" width="10%" style=float:right> 
+<!-- <img src="https://media.giphy.com/media/OT3NrGYyRu523JG0G8/giphy.gif" width="60"> -->
+<!-- 																			<h5> <img src="https://github.com/vrkaran/vrkaran/blob/main/Gifs/thank.gif" width="20%"></h5>	  				 -->
+
+
+<!--**vrkaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--
+<td style="text-align: right;">
+  <details open>
+    <summary>Full year calendar</summary>
+    <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="">
+  </details>
+  <details>
+    <summary>Half year calendar</summary>
+    <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt="">
+  </details>
+  <img width="900" height="1" alt="">
+</td>  -->
+
+
+
+
+<!-- [Metrics](https://metrics.lecoq.io/Isometric commit calendar?template=classic&config.timezone=Asia%2FCalcutta) -->
+ 
 
 ```text
 Python   3 hrs 58 mins    █████████████████████████   100.00 %
