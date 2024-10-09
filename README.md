@@ -12,9 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋;I'm+Karan+Vishwakarma..;Student+at+IIT+Madras..;Spececializing+in+Data+Science..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
+  <img src="https://github.com/user-attachments/assets/423ec2c1-0725-484f-a3c6-fb4585e6619d" alt="lllll">
+</p>
+<!--<p align="center">
+  <img src="https://github.com/user-attachments/assets/9061abcc-f4b3-4c5f-9b93-9ca8d3ed2c48" alt="lllll">
+</p>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋;I'm+Karan+Vishwakarma..;Student+at+IIT+Madras..;Spececializing+in+Data+Science..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a> --></p>  
 
 I'm 𝐊𝐚𝐫𝐚𝐧 𝐕𝐢𝐬𝐡𝐰𝐚𝐤𝐚𝐫𝐦𝐚 !
 - B.S. in Data Science degree student at 𝐈𝐈𝐓 𝐌𝐚𝐝𝐫𝐚𝐬, specializing in 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐌𝐋), 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 (𝐃𝐋), and 𝐀𝐫𝐭𝐢𝐟𝐢𝐜𝐢𝐚𝐥 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞 (𝐀𝐈).
