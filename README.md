@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/423ec2c1-0725-484f-a3c6-fb4585e6619d" alt="lllll">
+  <img src="profile.gif" alt="lllll">
 </p>
 <!--<p align="center">
   <img src="https://github.com/user-attachments/assets/9061abcc-f4b3-4c5f-9b93-9ca8d3ed2c48" alt="lllll">
