@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="profilee.gif" alt="lllll">
 </p>-->
 <p align="center">
-  <img src="profile.gif" alt="lllll">
+  <img src="kar.gif" alt="lllll">
 </p>
 <!--<p align="center">
   <img src="https://github.com/user-attachments/assets/9061abcc-f4b3-4c5f-9b93-9ca8d3ed2c48" alt="lllll">
