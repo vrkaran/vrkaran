@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="karan.gif" alt="Karan Vishwakarma">
+  <img src="karann.gif" alt="Karan Vishwakarma">
 </p>
 
 # Hi, I’m Karan Vishwakarma 👋  
